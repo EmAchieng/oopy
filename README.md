@@ -1,7 +1,7 @@
-Dive Inside Object-oriented Python
+Dive Inside Object-Oriented Python
 ======================
 
-This repository contains code used during an Object-oriented Python workshop at Pycon Africa 2020.
+This repository contains code used during an Object-Oriented Python workshop at Pycon Africa 2020.
 
 You need [Jupyter](https://jupyter.org) to run the notebooks. To install it see the instructions [here](https://jupyter.org/install).
 
