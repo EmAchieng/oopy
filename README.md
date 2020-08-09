@@ -1,7 +1,7 @@
 Dive Inside Object-oriented Python
 ======================
 
-This repository contains code used during my Object-oriented Python workshop.
+This repository contains code used during an Object-oriented Python workshop at Pycon Africa 2020.
 
 You need [Jupyter](https://jupyter.org) to run the notebooks. To install it see the instructions [here](https://jupyter.org/install).
 
@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 After this you should be able to run `jupyther notebook` and the Jupyter interface will open in your browser.
 
-If you are not following the workshop you can find a series of posts that discuss the same topics [on my blog](https://www.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-and-types/)
+If you are not following the workshop you can find a series of posts that discuss the same topics [instructor's blog](https://www.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-and-types/)
 
 The workshop is divided into the following sections
 
@@ -24,5 +24,5 @@ The workshop is divided into the following sections
 5. Delegation
 6. Polymorphism
 
-Each of the sections 2-6 has one companion notebook with exercises and one with the solutions. I highly recommed that you try to solve the exercises before looking at the solutions. No effort, no results! =)
+
 
