@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 After this you should be able to run `jupyther notebook` and the Jupyter interface will open in your browser.
 
-If you are not following the workshop you can find a series of posts that discuss the same topics [instructor's blog](https://www.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-and-types/)
+If you are not following the workshop you can find a series of posts that discuss the same topics at the [instructor's blog](https://www.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-and-types/)
 
 The workshop is divided into the following sections
 
